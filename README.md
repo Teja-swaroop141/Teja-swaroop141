@@ -67,6 +67,12 @@ Real-time weather dashboard using OpenWeather API integrated with a complete Dev
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Teja-swaroop141/Teja-swaroop141/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Teja-swaroop141)
