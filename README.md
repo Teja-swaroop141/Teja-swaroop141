@@ -1,84 +1,171 @@
-<c><strong><h2>💫 Hi There</h2></strong></c>
+<!-- ==================== FOLLOWERS & STARS ==================== -->
 
-Hi, I'm *Teja Swaroop* — a passionate developer from Mysuru, India 🇮🇳.  
-I enjoy building real-world applications across **Android, Web, and DevOps**, and love exploring new tools that improve my development workflow.  
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Teja-swaroop141"> &nbsp;&nbsp; 
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/Teja-swaroop141?style=social">
 
-I focus on creating meaningful systems — from Flutter mobile apps to full CI/CD pipelines using Jenkins, Docker, and Kubernetes — all powered by strong fundamentals in **DSA, OOPS, Operating Systems, and Computer Networks**.
 
----
+<!-- ==================== ANIMATED INTRODUCTION ==================== -->
 
-![tech_banner](https://github.com/user-attachments/assets/d20d0ba4-87b6-47c8-a45c-0a4ad79651d4)
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=750&lines=Heyyy!+I'm+Teja+Swaroop+%3C3;Computer+Science+Engineer;Java+%7C+DSA+%7C+DevOps+%7C+Cloud;Welcome+to+my+profile!" 
+    alt="Title">
+</div>
 
----
 
-## 🎓 Education
+<!-- ==================== ABOUT ME ==================== -->
 
-🎓 **B.E. in Computer Science Engineering**  
-*Vidyavardhaka College of Engineering, Mysuru*  
-**CGPA:** 9.14  
-- Hackathon Winner (DevOps Hackathon – 1st Place)  
-- Two-time Hackathon Runner-up (Infothon & Hack-AI-Thon)  
-- Conducted a full-day Git & GitHub workshop  
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> About Me
 
----
+<img 
+  src="https://github.com/user-attachments/assets/d20d0ba4-87b6-47c8-a45c-0a4ad79651d4" 
+  width="400" 
+  align="right"
+  alt="Tech Banner"
+/>
 
-## 🚀 Projects
+- 🎓 My name is **Teja Swaroop**
+- 🏫 I'm pursuing **Computer Science and Engineering** at **Vidyavardhaka College of Engineering, Mysuru**
+- 💻 I'm passionate about **Software Development, DevOps, Cloud Computing, and Problem Solving**
+- ☕ My primary programming language is **Java**, and I also work with **Python and C**
+- ☁️ I enjoy exploring **AWS, Docker, Kubernetes, Jenkins, Kafka, and Linux**
+- 🧠 I love solving **Data Structures and Algorithms** problems
+- 🚀 I enjoy building **real-world projects and automating development workflows**
+- 🌱 Currently exploring **cloud-native technologies, distributed systems, and scalable software development**
+- 💬 Ask me about **Java, DSA, DevOps, Docker, Kubernetes, AWS, or CI/CD**
+- ⚡ My philosophy: ***"Keep building, keep learning, and let the results speak."***
 
-### 📱 **PurePlus – Personalized Air Quality Health App**
-Flutter + Firebase Android application providing AQI-based health alerts, tagging system (Healthy / Moderate / Risk) and personalized suggestions.
+<br clear="right"/>
 
-### 🌤️ **Weather Monitoring Web App with CI/CD**
-Real-time weather dashboard using OpenWeather API integrated with a complete DevOps pipeline — GitHub → Jenkins → Docker → Kubernetes (local cluster).
 
-### 🎯 Mini Projects  
-- **Sudoku Solver** (Java, Backtracking)  
-- **Crop–Fertilizer Predictor** (Python, ML basics)  
-- **Bank Management System** (Java + JDBC)
+<!-- ==================== LANGUAGES AND TOOLS ==================== -->
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
-## 🏆 Achievements
 
-- 🥇 1st Place — DevOps Hackathon (VVCE)  
-- 🥈 2nd Place — Infothon (24-hour Hackathon)  
-- 🥈 2nd Place — Hack-AI-Thon  
-- 🎤 Delivered a full-day workshop on **Git & GitHub**  
-- 💡 Solved **140+ LeetCode problems**
+### 👨‍💻 Programming Languages
 
----
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D33833.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 Frameworks & Development
 
----
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-swaroop141&theme=dark&hide_border=false&layout=compact)
+### 🗄️ Databases & Messaging
 
----
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-## 🐍 Contribution Snake Animation
+
+### ☁️ DevOps, Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
+
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Teja-swaroop141/Teja-swaroop141/output/github-contribution-grid-snake-dark.svg" />
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api?username=Teja-swaroop141&show_icons=true&theme=github_dark&hide_border=false&border_color=58A6FF" alt="GitHub Stats"><img height="180px" src="https://streak-stats.demolab.com?user=Teja-swaroop141&theme=github-dark-blue&hide_border=false&border=58A6FF" alt="GitHub Streak"><img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Teja-swaroop141&layout=compact&theme=github_dark&hide_border=false&border_color=58A6FF" alt="Top Languages">
 </p>
 
-## 🌐 Connect With Me
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Teja-swaroop141)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Teja_swaroop25/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:steja9748@gmail.com)
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
----
+<p align="center">
+  <img 
+    width="100%"
+    src="https://raw.githubusercontent.com/Teja-swaroop141/Teja-swaroop141/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation">
+</p>
 
-<!-- Powered by GPRM: https://gprm.itsvg.in -->
+
+<!-- ==================== CONNECT WITH ME ==================== -->
+
+## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px" height="40px"> For More Information, Please Check Out or Connect With Me Via
+
+<p align="center">
+
+  <a href="mailto:steja9748@gmail.com">
+    <img 
+      align="center" 
+      alt="Teja Swaroop | Gmail" 
+      width="26px" 
+      src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" 
+    />
+  </a> 
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/teja-swaroop-7650662a6" target="_blank">
+    <img 
+      align="center" 
+      alt="Teja Swaroop | LinkedIn" 
+      width="24px" 
+      src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" 
+    />
+  </a> 
+  &nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/Teja_swaroop25/" target="_blank">
+    <img 
+      align="center" 
+      alt="Teja Swaroop | LeetCode" 
+      width="24px" 
+      src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" 
+    />
+  </a> 
+  &nbsp;&nbsp;
+
+  <a href="https://portfolio-zeta-red-67nar4n257.vercel.app/" target="_blank">
+    <img 
+      align="center" 
+      alt="Teja Swaroop | Portfolio" 
+      width="26px" 
+      src="https://img.icons8.com/fluency/48/domain.png" 
+    />
+  </a> 
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/Teja-swaroop141" target="_blank">
+    <img 
+      align="center" 
+      alt="Teja Swaroop | GitHub" 
+      width="26px" 
+      src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff" 
+    />
+  </a>
+
+</p>
+
+
+<!-- ==================== FOOTER ==================== -->
+
+<br>
+
+<div align="center">
+
+  🚀 Thanks for visiting my profile! Keep building, keep learning, and keep growing! 👨‍💻
+
+  <br/>
+
+  &copy; 2026 Teja Swaroop
+
+</div>
